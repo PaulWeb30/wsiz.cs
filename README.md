@@ -1,1 +1,1 @@
-# wsiz.cs
+# WSIZ University C# homeworks
